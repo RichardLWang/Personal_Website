@@ -1,0 +1,18 @@
+ideaspot
+https://www.youtube.com/watch?v=e5AwNU3Y2es
+
+Got the "Lens" template from HTML5UP
+Pasted files into the cloned repository
+Committed that
+Forgot to push
+
+Settings -> Pages -> Source -> Deploy from a branch
+
+-> github actions -> Static HTML -> Configure -> Commit on top right
+
+Actions tab -> Check progress of static.yml
+
+Settings -> Pages -> 
+
+Nothing appeard
+Fetched and merged local so I can push the HTML template files
